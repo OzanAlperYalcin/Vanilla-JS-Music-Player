@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 400px;
+}
+
+li:hover {
+    background-color: #D3D3D3;
+    cursor: pointer;
+}
+li.playing {
+    background-color: #f8d7da;
+    color: #721c24;
+}
