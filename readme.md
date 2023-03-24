@@ -1,0 +1,1 @@
+This was my first project with JS. I have used bootstrap for styling. For the player I have used class component.
